@@ -1,6 +1,6 @@
 # Vue Horizontal Collapse
 
-Demo: [Vue Horizontal Collapse](base-tricks.vue-horizontal-collapse.surge.sh)
+Demo: [Vue Horizontal Collapse](http://base-tricks.vue-horizontal-collapse.surge.sh)
 
 
 jQuery version: [Horizontal Collapse using jQuery](https://codepen.io/adrianparr/pen/ywKRPg)
