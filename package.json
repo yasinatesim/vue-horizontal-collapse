@@ -6,7 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "surge" : "surge --project ./dist --domain base-tricks.vue-horizontal-collapse.surge.sh"
+    "surge" : "npm run build && surge --project ./dist --domain base-tricks.vue-horizontal-collapse.surge.sh"
   },
   "dependencies": {
     "core-js": "^2.6.5",
